@@ -1,1 +1,1 @@
-Sitemap: https://alirezamirsepassi.github.io/blog/sitemap.xml
+Sitemap: https://alireza.rocks/blog/sitemap.xml
