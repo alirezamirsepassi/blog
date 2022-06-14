@@ -1,6 +1,10 @@
 //Default Overrides For Styles In Minima 
 // If you wish to override any of this CSS, do so in _sass/minima/custom-styles.css
 
+a:hover {
+  text-decoration: none!important;
+}
+
 .post img {
   display: block;
   // border:1px solid #021a40;
@@ -103,6 +107,7 @@ details.description:not([open]) summary::after {
 
 // Adjust font size for footnotes.
 .footnotes {
+  margin-top: 40px;
   font-size: 12px !important;
 
   p, li {
