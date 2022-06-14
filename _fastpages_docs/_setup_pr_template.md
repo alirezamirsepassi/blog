@@ -19,7 +19,7 @@ Hello :wave: @alirezamirsepassi!  Thank you for using fastpages!
 
 If you are not using a custom domain, your website will appear at: 
 
-#### https://alirezamirsepassi.github.io/blog
+#### https://alireza.rocks/blog
 
 
 ## Optional: Using a Custom Domain
