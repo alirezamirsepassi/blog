@@ -1,9 +1,10 @@
 // override defalt minima variables 
+$base-font-family: "ComicCodeLigatures-Regular", "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif !important;
 
 // width of the content area
 // can be set as "px" or "%"
-$content-width:    1000px;
-$on-palm:          800px;
-$on-laptop:        1000px;
-$on-medium:        1000px;
-$on-large:         1200px;
+$content-width: 1000px;
+$on-palm: 800px;
+$on-laptop: 1000px;
+$on-medium: 1000px;
+$on-large: 1200px;

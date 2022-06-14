@@ -1,3 +1,10 @@
+# Editors & IDEs
+.idea/
+.vscode/
+
+# Mac fs
+.DS_STORE
+
 *.swp
 ~*
 *~
